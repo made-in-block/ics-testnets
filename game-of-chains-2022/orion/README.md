@@ -67,7 +67,7 @@ The genesis file with was generated using the following settings:
 
 ## Endpoints
 
-* **p2p persistent peers : ``**
+* **p2p persistent peers : `3a78c8fb17f34a3bd21cfc0d580209fbe3e50606@95.217.235.1:23456`**
 * These peers represent the `Made in Block`validator. We are accepting `250` inbound peeers, but please consider sharing your peers in discord, or create a PR to [`peers.txt`](peers.txt)
 
 * Please keep in mind that any validator that does not come online after 67% of the voting power is up and running, is likely to be slashed for downtime, potentially resulting in being jailed (the `signed_blocks_window` parameter is set to `8640`).

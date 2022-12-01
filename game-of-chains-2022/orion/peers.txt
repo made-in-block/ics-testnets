@@ -1,3 +1,4 @@
 #Peers for the Made in Block - Orion consumer chain
 
 #orion
+3a78c8fb17f34a3bd21cfc0d580209fbe3e50606@95.217.235.1:23456
