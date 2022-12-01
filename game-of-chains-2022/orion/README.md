@@ -9,10 +9,10 @@ Contents
 ## Status
 
 * Timeline
-  * 2022-12-02: Spawn time: `2022-12-05T12:00:00.000000000Z`
-  * 2022-12-03: Proposal # voting period ends
-  * 2022-11-28: Proposal # goes into voting period
-  * 2022-11-28: Genesis file without CCV state is generated
+  * 2022-12-05: Spawn time: `2022-12-05T12:00:00.000000000Z`
+  * 2022-12-04: Proposal #47 voting period ends
+  * 2022-12-01: Proposal #47 goes into voting period
+  * 2022-12-05: Genesis file without CCV state is generated
 
 The following items will be included in the proposal:
 * Genesis file hash
